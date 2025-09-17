@@ -1,22 +1,3 @@
-/*
-    Telephone Directory Console Application
-
-    Semester - Spring-2024
-    Section - 08
-    Course - Data Structure
-    Course Code - CSE207
-
-    Group Members:
-    - Nasibul Sazid(2022-3-60-014)
-    - Hesney Hasin(2022-3-60-038)
-    - Anika Tahseen(2022-3-60-037)
-    - Arnab Barman(2022-3-60-010)
-
-    Course Instructor:
-    ~ Dr. Md. Atiqur Rahman
-    ~ Assistant Professor,Department of CSE.
-    ~ East West University
-*/
 
 #include <stdio.h>
 #include <conio.h>
@@ -492,4 +473,5 @@ void modifyPhoneNo(struct Contacts *_add) {
 
     strcpy(_add->phoneNo, phNo);
     printf("\nPhone number modified successfully.\n");
+
 }
