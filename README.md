@@ -258,34 +258,6 @@ Upon completing these programs, you will be able to:
 
 ---
 
-## Directory Structure
-
-```
-List-of-programs/
-├── README.md
-├── conditional-statements/
-│   ├── simple_comparison.c
-│   ├── grade_evaluation.c
-│   ├── leap_year.c
-│   └── ...
-├── functions/
-│   ├── basic_math.c
-│   ├── factorial.c
-│   ├── fibonacci.c
-│   └── ...
-├── loops/
-│   ├── number_series.c
-│   ├── patterns.c
-│   ├── multiplication_table.c
-│   └── ...
-└── practical-applications/
-    ├── telephone-directory/
-    │   └── directory.c
-    └── coffee-shop-system/
-        └── coffee_shop.c
-```
-
----
 
 ## Tips for Learning
 
@@ -311,15 +283,6 @@ List-of-programs/
 
 ---
 
-## Contributing
-
-Feel free to:
-- Add new programs and examples
-- Improve existing code with comments
-- Submit bug fixes
-- Suggest enhancements
-
----
 
 ## Resources
 
@@ -335,25 +298,6 @@ Feel free to:
 
 ---
 
-## License
 
-This project is open source and available under the MIT License.
 
----
 
-## Author
-
-**Hesney Hasin**  
-University C Programming Projects Repository
-
----
-
-## Support
-
-If you have questions or need clarification on any programs, feel free to open an issue or contact the repository maintainer.
-
----
-
-**Last Updated**: December 18, 2025
-
-Happy Coding! 🚀
